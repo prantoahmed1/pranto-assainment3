@@ -1,0 +1,12 @@
+.carousel-inner {
+    height: auto;
+}
+
+.btn-get-started{
+
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: #fff;
+    border:none;
+    padding: 9px 24px;
+     border-radius: 8px 
+}
