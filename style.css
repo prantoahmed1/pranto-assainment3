@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&family=Poppins:wght@500&display=swap');
 .carousel-inner {
     height: auto;
 }
@@ -19,5 +20,8 @@
     border:none;
     padding: 9px 24px;
      border-radius: 8px }
-     
-}
+     .footer-header {
+        height: 200px;
+        background-color: black;
+        color: #fff;
+     }
