@@ -2,12 +2,22 @@
     height: auto;
 }
 
+.restration-bg-info{
+    background-color:#1C80F9;
+    }
+    .registration-btn {
+        background-color: #fff;
+        color:#1C80F9;
+        border:none;
+    padding: 9px 24px;
+     border-radius: 8px ;
+    }
 .btn-get-started{
 
-    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    background-color:#1C80F9;
     color: #fff;
     border:none;
     padding: 9px 24px;
-     border-radius: 8px 
+     border-radius: 8px }
      
 }
